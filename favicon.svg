@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Arosync Media">
+  <!-- Soft canvas -->
+  <rect width="32" height="32" rx="8" fill="#F8FAFC"/>
+  <!-- Green accent mark -->
+  <path
+    d="M6 26 L16 4 L26 26"
+    fill="none"
+    stroke="#047857"
+    stroke-width="3.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <!-- Purple crossbar -->
+  <path
+    d="M10.5 18.5 H21.5"
+    fill="none"
+    stroke="#3B0764"
+    stroke-width="3.2"
+    stroke-linecap="round"
+  />
+</svg>
